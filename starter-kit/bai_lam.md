@@ -3,7 +3,7 @@
 - **Mã đề:** 16
 - **Họ tên:** Lê Hoàng Anh Khiêm
 - **Lớp:** CNTT 2
-- **Link repository:** 
+- **Link repository:** https://github.com/khiemleSD/HCM-KS26-CNTT2_Nhap-mon-CNTT_Hackathon01.git
 - **Hệ điều hành (Windows/macOS):** windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
